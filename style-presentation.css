@@ -1,0 +1,89 @@
+
+body {
+    background-color: white;
+    font-size: 0.75em;
+    line-height: 1.2em;
+}
+
+img {
+    border:none;
+}
+
+.wrap {
+    text-align:left;
+    background-color: white;
+}
+
+a {
+    text-decoration: none;
+}
+
+#logo {
+    color: darkblue;
+    font-size: 70px;
+}
+
+header .right a:hover {
+    color: gray;
+}
+
+input {
+    color:blue;
+}
+
+nav {
+    background-color: darkblue;
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    color: #ff0099;
+}
+    
+nav ul {
+    list-style:none;
+}
+
+nav a {
+    text-decoration:none;
+    color:#FFFFFF;
+    border-style: hidden hidden solid hidden;
+    border-color: transparent;
+}
+
+nav a:hover {
+    color:#FFFFFF;    
+    border-color: white;
+}
+
+footer #copyright {
+    font-family: consolas;
+}
+
+footer #SNS a {
+    text-decoration: none;
+}
+
+.otakulist {
+	font-family: arial;
+    background-color: #f0f0f0;
+	background-repeat: no-repeat;
+	background-position: 0px 0px;	
+	border:solid 3px steelblue;
+	border-radius:10px;
+}
+
+.otakulist .head {
+	font-size: 16px;
+	font-weight: bolder;
+}
+
+.otakulist ul li {
+	font-size: 12px;
+    list-style-type: none;
+}
+
+.otakulist ul li img {
+    border: solid;
+    border-color: lightgray;
+    border-width: 1px;
+}

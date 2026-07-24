@@ -1,0 +1,33 @@
+.wrap {
+    width:1500px;
+    min-height:1500px;
+}
+
+header {
+    height: 100px;
+}
+
+nav {
+    width: 1500px;
+}
+    
+nav a {
+    height:30px;
+}
+
+footer {
+    height:70px;
+}
+
+.otakulist {
+    height: 1350px;
+}
+
+.otakulist ul li {
+    width: 450px;
+    height: 600px;
+}
+
+.otakulist ul li img {
+    height: 500px;
+}
